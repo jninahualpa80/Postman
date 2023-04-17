@@ -1,8 +1,10 @@
 # Postman
 
 1.- Prerequisitos
+
     win 11 
     postman > 10.12.13
+    
 2 .- Instalación
     
     Bajar e instalar  el aplicativo Potman https://www.postman.com/
